@@ -1,0 +1,15 @@
+.card{
+
+    display:inline-block;
+    margin: 25px;
+
+}
+
+.card img{
+    width: 250px;
+  height: 300px;
+}
+
+.custom{
+  width: 78px;
+}
